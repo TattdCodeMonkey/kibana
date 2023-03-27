@@ -20,7 +20,9 @@
       "infra",
       "cloud",
       "esUiShared",
-      "guidedOnboarding"
+      "guidedOnboarding",
+      "lens",
+      "embeddable",
     ],
     "optionalPlugins": [
       "customIntegrations",
